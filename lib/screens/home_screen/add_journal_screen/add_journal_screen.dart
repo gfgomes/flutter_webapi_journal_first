@@ -37,11 +37,14 @@ class AddJournalScreen extends StatelessWidget {
     );
   }
 
-  Future<void> registerJournal(BuildContext context) async {
+  void registerJournal(BuildContext context) {
     String content = _contentController.text;
     journal.content = content;
     JournalService service = JournalService();
-    bool result = await service.register(journal);
-    Navigator.pop(context, result);
+    service.register(journal).then((result) {
+      if (result) {
+        Navigator.pop(context, result);
+      }
+    });
   }
 }

@@ -14,7 +14,6 @@ class JournalService {
       InterceptedClient.build(interceptors: [LoggerInterceptor()]);
 
   String getUrl() {
-    print("$url$resource");
     return "$url$resource";
   }
 
