@@ -1,32 +1,29 @@
 {
-  "learnhttp": [
+  "learnhttp": [],
+  "journals": [
     {
-      "id": "5ba4",
-      "content": "oi"
+      "id": "54a9f8b0-2425-11ef-ae51-2fa8fb8328db",
+      "content": "",
+      "created_at": "2024-06-06 13:53:42.462455",
+      "updated_at": "2024-06-06 13:53:42.462463"
     },
     {
-      "id": "e933",
-      "content": "Olá mundo!"
+      "id": "626ec070-2425-11ef-803c-1fcd50c3c02c",
+      "content": "",
+      "created_at": "2024-06-06 13:54:05.562243",
+      "updated_at": "2024-06-06 13:54:05.562251"
     },
     {
-      "id": "2b9c",
-      "content": "Olá mundo!"
+      "id": "66632c20-2425-11ef-9b5c-27ba65ac0744",
+      "content": "",
+      "created_at": "2024-06-06 13:54:12.197013",
+      "updated_at": "2024-06-06 13:54:12.197155"
     },
     {
-      "id": "b7d0",
-      "content": "Olá mundo3!"
-    },
-    {
-      "id": "bca7",
-      "content": "Olá mundo3!"
-    },
-    {
-      "id": "b491",
-      "content": "Olá mundo3!"
-    },
-    {
-      "id": "89a9",
-      "content": "Olá mundo3!"
+      "id": "7bfe0690-2425-11ef-a9ea-e108a564db21",
+      "content": "",
+      "created_at": "2024-06-06 13:54:48.444625",
+      "updated_at": "2024-06-06 13:54:48.444634"
     }
   ]
 }
