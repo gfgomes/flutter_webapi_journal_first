@@ -12,6 +12,7 @@ void main() {
   //service.get();
   //asyncStudy();
   //service.register(Journal.empty());
+  service.getAll();
 }
 
 class MyApp extends StatelessWidget {
